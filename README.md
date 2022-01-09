@@ -8,7 +8,7 @@
 <br><br>
 <center>
 <font face size="6" color="black">
-<h3>ÖZ GEÇMİŞ.<br><h3>
+<h3>ÖZGEÇMİŞ.<br><h3>
 <img src="r.png" height="150px" widht="150px"><br>
 
 <h3>ILETIŞIM BILGILER:</h3>
