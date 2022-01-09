@@ -1,15 +1,15 @@
 <html>
 <head>
-<title> Rawan wepsite </title>
+<title> Rawan website </title>
 </head>
 <body>
 
 
 <br><br>
 <center>
-<font face size="5" color="black">
-<h3>ÖZ GEÇMİŞ.<br><h3>
-<img src="raw.png" height="150px" widht="150px"><br>
+<font face size="6" color="black">
+<h3>ÖZGEÇMİŞ.<br><h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstylecareers.com%2Fjob%2Fdesigner-new-york-new-york-79931&psig=AOvVaw2Cslw_Xub4PWPSZ6cN2HCV&ust=1641805746725000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiQm6appPUCFQAAAAAdAAAAABAD" height="150px" widht="150px"><br>
 
 <h3>ILETIŞIM BILGILER:</h3>
      Adress: bandirma sunullah mah.<br>
@@ -30,7 +30,7 @@ microsift ofis programlari.<br><br>
  17 EYLUL UNIVERSITESI,YAZILIM MUHENDISLIK BOLUMU.<BR>
 
 </center>
-<a href="/me.html">rawan wep</a>
+<a href="/me.html">rawan web</a>
 
 </body>
 </html>
