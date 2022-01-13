@@ -19,7 +19,7 @@ Email:rawanalwadiy@gmail.com<br><br>
 Ad Soyad: Rawan Alwadeai.<br>
 Doğum tarihi: 3/6/2002<br>
 Doğum yeri: Yemen<br>
-Eğetim durumu : öğrenci<br>
+Eğitim durumu : öğrenci<br>
 
 <h3>BILGISAYAR BILGILERI:</h3>
 microsift ofis programlari.<br><br>
