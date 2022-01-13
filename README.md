@@ -30,7 +30,7 @@ microsift ofis programlari.<br><br>
  17 EYLUL UNIVERSITESI,YAZILIM MUHENDISLIK BOLUMU.<BR>
 
 </center>
-<a href="/me.html">rawan web</a>
+
 
 </body>
 </html>
