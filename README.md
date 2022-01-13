@@ -24,6 +24,8 @@ Eğitim durumu : öğrenci<br>
  17 EYLUL UNIVERSITESI,YAZILIM MUHENDISLIK BOLUMU.<BR>
 </font>
 </center>
+<a href="/me.html">rawan web</a>
 
 </body>
-</html> 
+</html>
+<meta / keywords= "htmal,leam.teach" >
