@@ -27,4 +27,4 @@ Eğitim durumu : öğrenci<br>
 <a href="/me.html">rawan web</a>
 
 </body>
-</html> done
+</html> 
