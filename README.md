@@ -27,5 +27,5 @@ Eğitim durumu : öğrenci<br>
 <a href="/me.html">rawan web</a>
 
 </body
-      <meta / keywords= "htmal,leam.teach" >
 </html> 
+<meta / keywords= "htmal,leam.teach" >
