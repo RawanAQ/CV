@@ -8,7 +8,7 @@
 <center>
 <font face size="5" color="black">
 <font size="6"><h3>RAWAN ALWADEAI.<br><h3></font>
-<img src="raw.png.png" height="150px" widht="150px"><br>
+<img src="C:\rootfolder\image\rawan.jpg"><br>
 
 <h3>ILETIŞIM BILGILER:</h3>
      Adress: bandirma sunullah mah.<br>
@@ -28,4 +28,4 @@ Eğitim durumu : öğrenci<br>
 
 </body>
 </html>
-DONE
+
